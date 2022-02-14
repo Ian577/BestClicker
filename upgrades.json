@@ -1,0 +1,12 @@
+[
+{id: 0, label: 'Slow Clicker', ratepersecond:100000, minclicks:1},
+{id: 1, label: 'Okay Clicker', ratepersecond:500000, minclicks:5},
+{id: 2, label: 'Ultra Clicker', ratepersecond:2000000, minclicks:50},
+{id: 3, label: 'Hyper Clicker', ratepersecond:10000000, minclicks:500},
+{id: 4, label: 'Mega Clicker', ratepersecond:35000000, minclicks:2000},
+{id: 5, label: 'Giga Clicker', ratepersecond:100000000, minclicks:10000},
+{id: 6, label: 'Extraordinary Clicker', ratepersecond:600000000, minclicks:5000},
+{id: 7, label: 'Penultimate Clicker', ratepersecond:5000000000, minclicks:100000},
+{id: 8, label: 'The One Clicker To Rule Them All', ratepersecond:100000000000, minclicks:2500000},
+{id: 9, label: 'The Final Clicker', ratepersecond:2500000000000000000000000,minclicks:5000000},
+]
