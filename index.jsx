@@ -3,7 +3,7 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 
 // Get Upgrade list configuration from json file
-var buttonUpgradeFullList = require('./upgrades.json');
+var buttonUpgradeFullList = require('upgrades.json');
 
 // Autoclick update rate in milliseconds
 var autoclickUpdateRate = 20; // 20 ~ 50Hz
